@@ -54,4 +54,4 @@ It may be useful for companies that:
 - Want practical summaries instead of raw update lists
 - Need help identifying which updates are meaningful and which are informational only
 
-Please contact <a href="mailto:info@mediqwiserq.com?subject=Consulting%20Inquiry">MediqWise Regulatory & Quality</a> to discuss your monitoring scope, reporting frequency, and preferred report format.
+Please contact <a href="mailto:info@mediqwiserq.com">MediqWise Regulatory & Quality</a> to discuss your monitoring scope, reporting frequency, and preferred report format.
