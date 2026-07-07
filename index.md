@@ -5,10 +5,6 @@ layout: page
 show_sidebar: false
 ---
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-  <img src="/img/Logo.svg" alt="MediqWise Regulatory & Quality" style="max-width: 360px; width: 100%; height: auto;">
-</div>
-
 MediqWise Regulatory & Quality provides regulatory standards monitoring, regulatory affairs support, and QMS support for medical device, SaMD, and digital health organizations.
 
 MediqWise helps startups and early-stage companies establish regulatory and quality processes that meet them where they are: practical for today’s needs, expandable for future growth, and not unnecessarily complex too early.
