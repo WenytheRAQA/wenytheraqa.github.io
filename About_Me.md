@@ -13,32 +13,11 @@ MediqWise supports medical device, SaMD, IVD, and digital health companies with 
 
 MediqWise helps clients establish regulatory and quality processes that meet them where they are: practical for today’s needs, expandable for future growth, and aligned with future regulatory and quality system expectations.
 
-## About Yu-Wen Wang
+## About Yu-Wen (Weny)
 
 Yu-Wen Wang, PhD, is a regulatory affairs and quality assurance professional with practical experience supporting medical device, in-vitro diagnostic, SaMD, and AI/ML-enabled medical device development.
 
 Her work focuses on applying regulatory and quality management system thinking early in product development, so that emerging devices are developed with their intended use, validation needs, clinical context, and future design-control expectations in mind.
-
-Through MediqWise, Yu-Wen provides regulatory standards monitoring, regulatory affairs consulting and contracting support, and QMS consulting and contracting support.
-
-## Service Focus
-
-MediqWise focuses on practical support in the following areas:
-
-- Regulatory standards and guidance monitoring
-- Regulatory intelligence reporting
-- Regulatory gap assessment
-- Submission-readiness document review
-- SaMD and digital health regulatory support
-- QMS procedure and work instruction development or revision
-- QMS gap assessment and audit-readiness support
-- Software lifecycle, risk management, usability, cybersecurity, and labelling-related quality or regulatory documentation support
-
-Regulatory affairs and QMS services may be provided as consulting support or as hands-on contracting support.
-
-Consulting support may include document review, gap assessment, written recommendations, reports, and practical regulatory or QMS interpretation.
-
-Contracting support may include hands-on work within the client’s organization, such as preparing or revising documentation, supporting QMS records, maintaining defined processes, or helping complete specific regulatory or quality activities.
 
 ## Selected Publications and Professional Contributions
 
