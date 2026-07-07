@@ -13,8 +13,6 @@ MediqWise helps startups and early-stage companies establish regulatory and qual
 
 ## Regulatory Standards Monitoring
 
-Regulatory standards monitoring is the primary service offered by MediqWise.
-
 MediqWise provides customized monitoring of medical device standards, regulatory guidance, and selected regulatory intelligence sources across agreed jurisdictions. The service is designed to help organizations stay aware of relevant regulatory and standards changes without building a full internal monitoring process too early.
 
 Monthly monitoring reports may include:
