@@ -52,4 +52,4 @@ The goal is not to create unnecessary complexity too early. The goal is to help 
 
 ## Contact
 
-Please contact MediqWise Regulatory & Quality to discuss regulatory standards monitoring, regulatory affairs support, or QMS support.
+Please contact <a href="mailto:info@mediqwiserq.com?subject=Consulting%20Inquiry">MediqWise Regulatory & Quality</a> to discuss regulatory standards monitoring, regulatory affairs support, or QMS support.
