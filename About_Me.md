@@ -42,14 +42,12 @@ Contracting support may include hands-on work within the client’s organization
 
 ## Selected Publications and Professional Contributions
 
-- Co-author, *Whole-transcriptome machine-learning model predicts recurrence after resection of stage I-II NSCLC: a blinded validation study*, JTCVS Open, in revision, 2026.
-
 - Contributing author, “Diagnostic X-Ray Imaging,” in *From X-Rays to AI: Navigating US Regulations in Radiological Health*, Regulatory Affairs Professionals Society, 2023.
 
 - Contributing author, “Diagnostic Ultrasound Systems,” in *From X-Rays to AI: Navigating US Regulations in Radiological Health*, Regulatory Affairs Professionals Society, 2023.
 
 - Contributing author, “Cybersecurity of Medical Devices,” in *Fundamentals of Medical Device Regulations: A Global Perspective*, Regulatory Affairs Professionals Society, 2025.
 
-- Invited speaker, McGill University, BMDE-654 Biomed Reg Affairs - Medical Devices, on SaMD, cybersecurity, and AI-based medical devices, 2021, 2022, and 2023.
+- Invited speaker, McGill University, BMDE-654 Biomed Reg Affairs - Medical Devices, on SaMD, cybersecurity, and AI-based medical devices, Since 2021 - 2025.
 
 - Speaker, Medtech Canada, Intro to Regulatory Affairs in Software as Medical Devices (SaMD), Dec 15, 2022.
