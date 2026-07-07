@@ -1,9 +1,17 @@
 ---
-title: MediqWise Regulatory & Quality
+title:
 subtitle: Regulatory monitoring and practical RA/QA support for medical device and SaMD companies
 layout: page
 show_sidebar: false
 ---
+
+<div style="text-align: center; margin-bottom: 1.5rem;">
+  <img src="/img/Logo.svg" alt="MediqWise Regulatory & Quality" style="max-width: 360px; width: 100%; height: auto;">
+</div>
+
+MediqWise Regulatory & Quality provides regulatory standards monitoring, regulatory affairs support, and QMS support for medical device, SaMD, and digital health organizations.
+
+MediqWise helps startups and early-stage companies establish regulatory and quality processes that meet them where they are: practical for today’s needs, expandable for future growth, and not unnecessarily complex too early.
 
 # Practical regulatory and quality support for medical device companies
 
@@ -52,4 +60,4 @@ The goal is not to create unnecessary complexity too early. The goal is to help 
 
 ## Contact
 
-Please contact <a href="mailto:info@mediqwiserq.com?subject=Consulting%20Inquiry">MediqWise Regulatory & Quality</a> to discuss regulatory standards monitoring, regulatory affairs support, or QMS support.
+Please contact <a href="mailto:info@mediqwiserq.com">MediqWise Regulatory & Quality</a> to discuss regulatory standards monitoring, regulatory affairs support, or QMS support.
