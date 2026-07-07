@@ -1,26 +1,61 @@
 ---
-title: <img src="./img/Logo.svg" alt="MediqWise Regulatory & Quality">
-subtitle: "Versatile RAQA Consulting: Expertise for Short-Term Needs and Long-Term Partnerships"
+title: MediqWise Regulatory & Quality
+subtitle: Regulatory monitoring and practical RA/QA support for medical device and SaMD companies
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
-# Regulatory Consulting #
-**Navigating Regulatory Complexity with Ease and Expertise**
+# Practical regulatory and quality support for medical device companies
 
-- Conduct a gap assessment aligned with specific regulations.
-- Introduce your Software as a Medical Device (SaMD) or digital health products to new markets.
-    - Prepare for submission.
-    - Review essential documentation.
-- Establish and manage post-market compliance activities.
+MediqWise Regulatory & Quality provides regulatory standards monitoring, regulatory affairs support, and QMS support for medical device, SaMD, and digital health organizations.
 
-# QMS Consulting #
-**Customize Your QMS to Meet Your Company's Unique Needs and Ensure Compliance**
+MediqWise helps startups and early-stage companies establish regulatory and quality processes that meet them where they are: practical for today’s needs, expandable for future growth, and not unnecessarily complex too early.
 
-MediqWise is here to assist you in:
+## Regulatory Standards Monitoring
 
-- Providing comprehensive documentation, implementation, and training services.
-- Preparing for audits with thorough and expert guidance.
-- Establishing new practices or enhancing existing ones for improved quality management.
-- Offering outsourced Quality Manager services, available for ad-hoc, interim, or long-term engagements.
+Regulatory standards monitoring is the primary service offered by MediqWise.
+
+MediqWise provides customized monitoring of medical device standards, regulatory guidance, and selected regulatory intelligence sources across agreed jurisdictions. The service is designed to help organizations stay aware of relevant regulatory and standards changes without building a full internal monitoring process too early.
+
+Monthly monitoring reports may include:
+
+- Newly issued or revised guidance
+- Newly recognized, published, revised, obsoleted, or withdrawn standards
+- Standards under development or revision
+- Jurisdiction-based regulatory update summaries
+- Impact summaries and suggested action items
+- Suggested applicability and compliance risk ratings, where appropriate
+
+The monitoring scope can be tailored based on the client’s product type, markets, technology, and internal reporting needs.
+
+[Learn more about Regulatory Standards Monitoring](/Regulatory_Standards_Monitoring/)
+
+## Regulatory Affairs Support
+
+MediqWise provides regulatory affairs support through both consulting and hands-on contracting models.
+
+Consulting support may include document review, regulatory gap assessment, written recommendations, and submission-readiness feedback.
+
+Contracting support may include hands-on work within the client’s organization, such as preparing or revising regulatory documentation, supporting regulatory planning activities, or helping maintain defined regulatory processes.
+
+[Learn more about Regulatory Affairs Support](/Regulatory_Consulting/)
+
+## QMS Support
+
+MediqWise provides QMS support through both consulting and hands-on contracting models.
+
+Consulting support may include QMS gap assessment, procedure review, audit-readiness review, and written recommendations.
+
+Contracting support may include hands-on support for procedure development, work instruction updates, QMS documentation, quality records, and defined quality system activities.
+
+[Learn more about QMS Support](/QMS_Consulting/)
+
+## Service Approach
+
+MediqWise focuses on practical, fit-for-purpose support for startups and early-stage companies.
+
+The goal is not to create unnecessary complexity too early. The goal is to help clients establish workable regulatory and quality foundations that support current needs and can expand as the company, product, and regulatory obligations mature.
+
+## Contact
+
+Please contact MediqWise Regulatory & Quality to discuss regulatory standards monitoring, regulatory affairs support, or QMS support.
