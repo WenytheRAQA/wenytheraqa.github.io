@@ -54,12 +54,4 @@ It may be useful for companies that:
 - Want practical summaries instead of raw update lists
 - Need help identifying which updates are meaningful and which are informational only
 
-## Service approach
-
-MediqWise meets clients where they are.
-
-The goal is to provide monitoring that is practical for today’s needs, expandable for future growth, and not unnecessarily complex too early.
-
-## Contact
-
-Please contact MediqWise Regulatory & Quality to discuss your monitoring scope, reporting frequency, and preferred report format.
+Please contact <a href="mailto:info@mediqwiserq.com?subject=Consulting%20Inquiry">MediqWise Regulatory & Quality</a> to discuss your monitoring scope, reporting frequency, and preferred report format.
