@@ -1,13 +1,11 @@
 ---
-title:
+title:<div style="text-align: center; margin-bottom: 1.5rem;">
+  <img src="/img/Logo.svg" alt="MediqWise Regulatory & Quality" style="max-width: 360px; width: 100%; height: auto;">
+</div>
 subtitle: Regulatory monitoring and practical RA/QA support for medical device and SaMD companies
 layout: page
 show_sidebar: false
 ---
-
-<div style="text-align: center; margin-bottom: 1.5rem;">
-  <img src="/img/Logo.svg" alt="MediqWise Regulatory & Quality" style="max-width: 360px; width: 100%; height: auto;">
-</div>
 
 MediqWise Regulatory & Quality provides regulatory standards monitoring, regulatory affairs support, and QMS support for medical device, SaMD, and digital health organizations.
 
