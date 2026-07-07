@@ -1,3 +1,11 @@
+- name: Services
+  dropdown:
+    - name: Regulatory Consulting
+      link: /Regulatory_Consulting/
+    - name: QMS Consulting
+      link: /QMS_Consulting/
+    - name: Regulatory Monitoring
+      link: /Regulatory_Monitoring/
 - name: Blog
   link: /blog/
 - name: About
