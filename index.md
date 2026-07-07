@@ -38,8 +38,6 @@ Consulting support may include document review, regulatory gap assessment, writt
 
 Contracting support may include hands-on work within the client’s organization, such as preparing or revising regulatory documentation, supporting regulatory planning activities, or helping maintain defined regulatory processes.
 
-[Learn more about Regulatory Affairs Support](/Regulatory_Consulting/)
-
 ## QMS Support
 
 MediqWise provides QMS support through both consulting and hands-on contracting models.
@@ -47,8 +45,6 @@ MediqWise provides QMS support through both consulting and hands-on contracting 
 Consulting support may include QMS gap assessment, procedure review, audit-readiness review, and written recommendations.
 
 Contracting support may include hands-on support for procedure development, work instruction updates, QMS documentation, quality records, and defined quality system activities.
-
-[Learn more about QMS Support](/QMS_Consulting/)
 
 ## Service Approach
 
