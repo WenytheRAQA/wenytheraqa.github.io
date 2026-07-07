@@ -12,13 +12,7 @@ The service helps clients identify relevant changes, understand why they may mat
 
 ## Monitoring frequency
 
-Regulatory monitoring can be provided on a:
-
-- Monthly
-- Quarterly
-- Semi-annual
-
-basis, depending on the client’s quality system, regulatory markets, product lifecycle stage, and internal review process.
+Regulatory standards and guidance monitoring can be provided monthly, quarterly, or semi-annually, depending on the client’s quality system, regulatory markets, product lifecycle stage, and internal review process.
 
 The frequency can be adjusted as the company’s product portfolio, market presence, and regulatory obligations evolve.
 
